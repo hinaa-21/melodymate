@@ -1,10 +1,11 @@
 numpy
+Pandas
 librosa
 soundfile
 mido
 python-rtmidi
 pytest
-fastapi
+Fastapi
 uvicorn
 python-multipart
 httpx
